@@ -1,0 +1,4 @@
+# 20210508_TestGit
+SourcetreeとのSSH接続
+
+GithubがTextファイルだけでなく、ExcelファイルやWordファイルも対応できるか否かを確認する。
